@@ -164,3 +164,5 @@ cython_debug/
 simka_config.conf
 .idea
 .DS_Store
+Dockerfile
+
